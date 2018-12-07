@@ -1,0 +1,4 @@
+*.html linguist-language=html
+*.css linguist-language=css
+*.png linguist-language=html
+*.svg linguist-language=css
